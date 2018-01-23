@@ -221,7 +221,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-| ![Matheus Rigote](https://avatars2.githubusercontent.com/u/10486867?s=460&v=4)|
+| ![Matheus Rigote](https://avatars2.githubusercontent.com/u/10486867?v=3&s=150)|
 |:---------------------:|
 |  [Matheus Rigote](https://github.com/rigote/)   |
 
